@@ -11,6 +11,7 @@ val antonarhipov = developer {
     tech("Kotlin", "Java", "Spring")
     links {
         twitter = "@antonarhipov"
+        youtube = "youtube.com/kotlin"
     }
 }
 ```
