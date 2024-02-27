@@ -13,7 +13,7 @@ val antonarhipov = developer {
         x.com = "@antonarhipov"
         youtube = "youtube.com/@AntonArhipov"
         speakerProfile = "sessionize.com/antonarhipov"
-        slides = speakerdeck.com/antonarhipov
+        slides = "speakerdeck.com/antonarhipov"
     }
 }
 ```
