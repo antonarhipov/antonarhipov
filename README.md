@@ -10,8 +10,10 @@ val antonarhipov = developer {
     }
     tech("Kotlin", "Java", "Spring")
     links {
-        twitter = "@antonarhipov"
-        youtube = "youtube.com/kotlin"
+        x.com = "@antonarhipov"
+        youtube = "youtube.com/@AntonArhipov"
+        speakerProfile = "sessionize.com/antonarhipov"
+        slides = speakerdeck.com/antonarhipov
     }
 }
 ```
