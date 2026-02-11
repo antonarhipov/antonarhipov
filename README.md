@@ -1,6 +1,6 @@
 ![Anton Arhipov Banner](https://raw.github.com/antonarhipov/antonarhipov/master/circles.jpg)
 
-## <img width="45" alt="about" src="https://raw.github.com/antonarhipov/antonarhipov/master/about.png"> More about me
+## More about me
 ```kotlin
 val antonarhipov = developer {
     about {
